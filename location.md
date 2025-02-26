@@ -1,3 +1,9 @@
+---
+layout: default
+title: Location
+nav_order: 2
+---
+
 # Venue and Accommodation
 
 ## Venue: Molecular Sciences Building
