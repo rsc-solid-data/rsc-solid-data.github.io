@@ -6,6 +6,11 @@ nav_order: 3
 
 ## Timeline & Application Process
 
+### Prerequisites
+
+We will assess whether you will be a good fit for the target course content from reading your statements 
+supplied with your application. For the course itself, you'll need to bring a laptop with you.
+
 ### Applications Open – March
 We’ll start accepting applications in **March**. You can apply through this [webform](https://forms.office.com/e/9ZM0T04M0P).
 

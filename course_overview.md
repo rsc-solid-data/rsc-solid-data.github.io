@@ -5,9 +5,8 @@ nav_order: 2
 ---
 
 ### Course Overview
-The **Solid Data Summer School** is a hands-on, project-based program. The course includes introductory lectures, team-based research projects, and networking opportunities.
 
-The Solid Data Summer School is a hands-on, project-based program designed to equip participants with skills in computational modeling and experimental analysis of solid-state materials. The course is structured over four days, combining introductory lectures, team-based research projects, and networking opportunities. There will be some pre-work provided to make sure the participants have the required computational skills to get the most out of the course.
+The Solid Data Summer School is a hands-on, project-based program designed to equip participants with skills in data-driven approaches for the analysis of solid-state materials. The course is structured over four days, combining introductory lectures, team-based research projects, and networking opportunities. There will be some pre-work provided to make sure the participants have the required computational skills to get the most out of the course.
 
 ### Draft Timetable
 
