@@ -7,7 +7,11 @@ nav_order: 2
 # Venue and Accommodation
 
 ## Venue: Molecular Sciences Building
-
+<br>
+<p align="center">
+  <img src="assets/Molecular_Sciences_Building.jpg" width="45%" />
+</p>
+<br>
 The school will take place in **Molecular Sciences Building** at the University of Birmingham
 
 **Address:**

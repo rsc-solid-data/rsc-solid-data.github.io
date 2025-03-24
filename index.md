@@ -4,6 +4,10 @@ title: Solid Data Summer School
 nav_order: 1
 ---
 
+<p align="center">
+  <img src="assets/University_of_Birmingham_Campus.jpg" width ="50%" />
+</p>
+
 ## Solid Data Summer School 2025: Data in Solid-State Chemistry
 
 Join us at the University of Birmingham in Summer 2025 for the inaugural **Solid Data Summer School**. This school bridges the gap between data science and solid-state chemistry, equipping post-graduate researchers with the skills needed to excel in a data-centric scientific landscape.
