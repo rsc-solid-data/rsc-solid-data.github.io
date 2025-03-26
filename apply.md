@@ -12,7 +12,7 @@ We will assess whether you will be a good fit for the target course content from
 supplied with your application. For the course itself, you'll need to bring a laptop with you.
 
 ### Applications Open – March
-We’ll start accepting applications in **March**. You can apply through this [webform](https://forms.office.com/e/9ZM0T04M0P).
+We’ll start accepting applications in **March**. You can apply through this [webform](https://docs.google.com/forms/d/1d0-Wu9_B43x0Z-keqJSLucBJSkmbjvGnDK3L_-Dggqg/edit).
 
 ### What You’ll Need to Apply
 As places are limited, we’ll ask for:
