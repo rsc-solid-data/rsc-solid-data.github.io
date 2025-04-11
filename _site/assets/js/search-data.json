@@ -22,46 +22,53 @@
   },"3": {
     "doc": "Course Overview",
     "title": "Course Overview",
-    "content": "Course Overview . The Solid Data Summer School is a hands-on, project-based program designed to equip participants with skills in data-driven approaches for the analysis of solid-state materials. The course is structured over four days, combining introductory lectures, team-based research projects, and networking opportunities. There will be some pre-work provided to make sure the participants have the required computational skills to get the most out of the course. Draft Timetable . |   | Day 1 | Day 2 | Day 3 | Day 4 | . | Morning | Python Clinic (optional) | Data lectures Session 1 | Data lectures Session 2 | Project presentations | . | Afternoon | Fundamental concepts | Research team project work | Research team project work | — | . | Evening | Social and poster session | Pizza and hacking | School dinner | — | . Accessibility &amp; Resources: . All materials are provided in advance and made openly available post-school to ensure inclusivity and continued learning. Outcomes: . Participants will gain experience in data analysis, computational techniques, and collaborative research, with a focus on drawing meaningful scientific conclusions from experimental data. ",
+    "content": "The Solid Data Summer School is a hands-on, project-based program designed to equip participants with skills in data-driven approaches for the analysis of solid-state materials. The course is structured over four days, combining introductory lectures, team-based research projects, and networking opportunities. There will be some pre-work provided to make sure the participants have the required computational skills to get the most out of the course. Topics . Participants will learn how to use big data and other computational approaches to improve the analysis of experimental data in solid-state chemistry. Taught sessions will include . | Some fundamental maths behind tools like machine learning, | Aspects of computation in materials science, including . | interacting with databases, | simulating materials properties | data simulation from models that can be compared directly with experiments | . | . Team projects . The projects are designed to reinforce the lectures through hands-on work with real (and messy!) materials data. You will get to see how to use tools to help with structural characterisation and work with data with a critical and analytical perspective. We will cover areas such as . | Using data-driven methods to tackle research problems | Understanding model limitations | Quantifying confidence in your results We will use datasets involving real world materials research problems. Teams can devise their own approach so you can choose to explore side questions that emerge from the data that are interesting or relevant to your field. | . ",
     "url": "/course_overview.html",
     
     "relUrl": "/course_overview.html"
   },"4": {
+    "doc": "Course Overview",
+    "title": "Draft Timetable",
+    "content": "|   | Day 1 | Day 2 | Day 3 | Day 4 | . | Morning | Python Clinic (optional) | Data lectures Session 1 | Data lectures Session 2 | Project presentations | . | Afternoon | Fundamental concepts | Research team project work | Research team project work | — | . | Evening | Social and poster session | Pizza and hacking | School dinner | — | . Accessibility &amp; Resources: . All materials are provided in advance and made openly available post-school to ensure inclusivity and continued learning. Outcomes: . Participants will gain experience in data analysis, computational techniques, and collaborative research, with a focus on drawing meaningful scientific conclusions from experimental data. ",
+    "url": "/course_overview.html#draft-timetable",
+    
+    "relUrl": "/course_overview.html#draft-timetable"
+  },"5": {
     "doc": "Solid Data Summer School",
     "title": "Solid Data Summer School 2025: Data in Solid-State Chemistry",
     "content": "Join us at the University of Birmingham in Summer 2025 for the inaugural Solid Data Summer School. This school bridges the gap between data science and solid-state chemistry, equipping post-graduate researchers with the skills needed to excel in a data-centric scientific landscape. Participants will gain hands-on experience in data management, analysis techniques, and computational tools tailored to solid-state chemistry problems. Designed with a focus on empowering experimentalists, the summer school integrates foundational lectures on data science with team-based projects that blend computational modeling and experimental data interpretation. Key Details . | When: 21st-24th July 2025 | Where: University of Birmingham, UK | Cost: £50, including accommodation. | . Generously supported by the Royal Society of Chemistry Solid State Chemistry Group. ",
     "url": "/#solid-data-summer-school-2025-data-in-solid-state-chemistry",
     
     "relUrl": "/#solid-data-summer-school-2025-data-in-solid-state-chemistry"
-  },"5": {
+  },"6": {
     "doc": "Solid Data Summer School",
     "title": "Solid Data Summer School",
     "content": ". ",
     "url": "/",
     
     "relUrl": "/"
-  },"6": {
+  },"7": {
     "doc": "Location",
     "title": "Venue and Accommodation",
     "content": " ",
     "url": "/location.html#venue-and-accommodation",
     
     "relUrl": "/location.html#venue-and-accommodation"
-  },"7": {
+  },"8": {
     "doc": "Location",
     "title": "Venue: Molecular Sciences Building",
     "content": ". The school will take place in Molecular Sciences Building at the University of Birmingham . Address: Molecular Sciences Building Pritchatts Road Edgbaston Birmingham B15 2SD United Kingdom . Getting There: . | By Train: The University of Birmingham is served by its own railway station, University Station, located approximately 200 meters west of the Molecular Sciences Building. Frequent services run from Birmingham New Street to University Station, with a typical journey time of around 7 minutes. | By Bus: Several bus routes connect the University to the city center and surrounding areas. For detailed routes and schedules, please refer to local bus service providers. | By Car: The University campus is accessible via the A38 (Bristol Road). Visitor parking is available on campus; however, spaces may be limited. It’s advisable to use public transport when possible. | On Foot or Bicycle: The campus is pedestrian and cyclist-friendly, with dedicated pathways and bike storage facilities. | . ",
     "url": "/location.html#venue-molecular-sciences-building",
     
     "relUrl": "/location.html#venue-molecular-sciences-building"
-  },"8": {
+  },"9": {
     "doc": "Location",
     "title": "Accommodation: Peter Scott House",
     "content": "Participants of the Solid Data Summer School 2025 will be accommodated at Peter Scott House, a comfortable and convenient on-campus guesthouse. Located just a short walk from the Molecular Sciences Building, it offers an ideal base for attendees. Address: Peter Scott House 48 Edgbaston Park Road Edgbaston Birmingham B15 2RA United Kingdom . Breakfast: Breakfast is included with your stay. Meals are served at the 1900 Restaurant, located within the Edgbaston Park Hotel and Conference Centre, just a 2-minute walk from Peter Scott House. ",
     "url": "/location.html#accommodation-peter-scott-house",
     
     "relUrl": "/location.html#accommodation-peter-scott-house"
-  },"9": {
+  },"10": {
     "doc": "Location",
     "title": "Location",
     "content": " ",
