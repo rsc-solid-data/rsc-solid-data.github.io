@@ -19,8 +19,9 @@ Participants will gain hands-on experience in data management, analysis techniqu
 - **Where**: University of Birmingham, UK  
 - **Cost**: £50, including accommodation.
 
-Generously supported by the Royal Society of Chemistry Solid State Chemistry Group. 
+Generously supported by the Royal Society of Chemistry Solid State Chemistry Group with additional support from the Cambridge Crystallographic Data Centre.
 
-<p align="left">
-  <img src="assets/rsc-group-logo-solid-state-chemistry_800px.jpg" width="45%" />
-</p>
+<div style="display: flex; gap: 20px; align-items: center;">
+  <img src="assets/rsc-group-logo-solid-state-chemistry_800px.jpg" width="50%" />
+  <img src="assets/CCDC Brand Strapline.png" width="25%" />
+</div>
