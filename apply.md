@@ -20,7 +20,7 @@ As places are limited, we’ll ask for:
 - A **200-word personal statement** explaining why you’re interested in digital chemistry and how this opportunity aligns with your goals.
 - A **200-word supervisor statement** about your academic background and potential fit for the program.  
 
-### Selection & Notifications – May
-We’ll review all applications and notify successful candidates in **May**. If you’re selected, we’ll send you more details, including information about the participation fee and next steps.
+### Selection & Notifications – June
+We’ll review all applications and notify successful candidates by the end of **June**. If you’re selected, we’ll send you more details, including information about the participation fee and next steps.
 
 If you have any questions about the application process, please [contact](contact.md) us.
