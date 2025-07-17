@@ -27,13 +27,15 @@ We will use datasets involving real world materials research problems. Teams can
 
 |            | Day 1                     | Day 2                  | Day 3                  | Day 4               |
 |------------|---------------------------|-------------------------|-------------------------|---------------------|
-| **Morning**   | Python Clinic (optional) | Data lectures Session 1 | Data lectures Session 2 | Project presentations |
-| **Afternoon** | Fundamental concepts     | Research team project work | Research team project work | — |
-| **Evening**   | Social and poster session | Pizza and hacking       | School dinner           | — |
+| **Morning**   | Stats and programming | Research team project work | Clustering structural information | Dragon's Den |
+| **Afternoon** | Databases, data, and the group project     | Databases and the CSD | Research team project work | — |
+| **Evening**   | Social and poster session | Pizza and hacking       | Presentation from Andy Cooper and School dinner           | — |
 
 
 ### Accessibility & Resources:
 All materials are provided in advance and made openly available post-school to ensure inclusivity and continued learning.
+
+- Please find the "textbook" for the [Stats and Programming section online](https://bri-sc.github.io/special-topics-ai-ml/intro.html).
 
 ### Outcomes:
 Participants will gain experience in data analysis, computational techniques, and collaborative research, with a focus on drawing meaningful scientific conclusions from experimental data.
