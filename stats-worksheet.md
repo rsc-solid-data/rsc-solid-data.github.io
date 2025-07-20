@@ -66,8 +66,30 @@ Plotted, the experimental data can be see below.
 
 <center>
 <img src='./stats/h2o2.png' alt="Experimental data showing the exponential decay of H2O2">
+</center>
 
 Find the maximum likelihood estimation of the rate constant.
 To achieve this, you should first define a multidimensional normal distribution that describes the experimental data and a function for the first order rate equation. 
 The optimal rate constant can be found by minimising the negative log-likelihood. 
 *Note*: you [should not linearise the above equation](https://doi.org/10.1021/acs.jchemed.3c00466) to find $k$ by linear regression.
+
+# Cluster Analysis
+
+The ability to cluster similar datasets has been extremely useful in the discovery of new materials. 
+By forming clusters in some space, distinct forms of some materials may by observed. 
+
+You colleagues has come to you with a database of [experimentally determined features](./stats/clustering.txt) (energy of formation, melting point, and unit cell volume).
+They would like to know if their data represents more than one polymorph of the molecule they are interested in. 
+If it does, they have potentially discovered a new polymorph. 
+They have highlighted that the enthalpy of formation appears to be normally distributed, as shown below. 
+
+<center>
+<img src='./stats/enthalpy.png' alt="The normally distributed enthalpy of formation">
+</center>
+
+Use *k*-means clustering to cluster the data using 1, 2, and 3 clusters. 
+Determine the optimal numbers of clusters and, therefore, help your colleague understand if they have discovered a new polymorph of their molecule. 
+
+# Dimensionality Reduction
+
+
