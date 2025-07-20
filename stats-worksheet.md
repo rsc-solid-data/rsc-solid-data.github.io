@@ -92,4 +92,10 @@ Determine the optimal numbers of clusters and, therefore, help your colleague un
 
 # Dimensionality Reduction
 
+Another colleague has colllected significantly [more data](./polymorph.csv) to help the disambiguation of two polymorphs.
+This is stored as a .csv file. 
+They have also identified the space group of each of the crystals they have collected, but want to understand which of the features have the biggest impact on the resulting space group. 
 
+They have asked you to using a dimensionality reduction technique to find the features that lead to the greatest variance. 
+Knowledge of these features will help them to rationally design future materials with desirable properties. 
+Your colleague has requested a visualisation, showing how the different space groups can be identified by considering a higher dimension description of the data. 
