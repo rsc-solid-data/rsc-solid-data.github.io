@@ -24,7 +24,7 @@ $$
 \mathbf{R} = \begin{bmatrix} \cos{\theta} & -\sin{\theta} \\ \sin{\theta} & \cos{\theta} \end{bmatrix}.
 $$
 
-A text file with *x* and *y* coordinates of a water molecule is available for download [here](./water.txt). 
+A text file with *x* and *y* coordinates of a water molecule is available for download [here](./stats/water.txt). 
 This file looks like that shown below. 
 
 ```
@@ -40,7 +40,7 @@ The first line is the *x* and *y* positions of the oxygen molecule and then the 
 Therefore, if plotted on *x* and *y*-axes, the oxygen atom would sit at the origin, $(0, 0)$, and the hydrogen atoms at $(-0.82, -0.48)$ and $(0.82, -0.48)$. 
 The atomic positions of the water molecule can be read using [`np.loadtxt`](https://numpy.org/doc/stable/reference/generated/numpy.loadtxt). 
 
-To visualise the water molecule, the [`visualisation.py`](./visualisation.py) module can be downloaded and imported as a module. 
+To visualise the water molecule, the [`visualisation.py`](./stats/visualisation.py) module can be downloaded and imported as a module. 
 This module includes the `visualisation.show()` function, to which the atomic positions should be passed. 
 
 Create a Python function that will rotate the water molecule using the rotation matrix defined above. 
@@ -61,10 +61,11 @@ $$
 
 where $k$ is the rate constant for the reaction (our model parameter). 
 
-Experimental data measuring this decomposition can be downloaded [here](./first-order.txt) and read in with [`np.loadtxt`](https://numpy.org/doc/stable/reference/generated/numpy.loadtxt). 
+Experimental data measuring this decomposition can be downloaded [here](./stats/first-order.txt) and read in with [`np.loadtxt`](https://numpy.org/doc/stable/reference/generated/numpy.loadtxt). 
 Plotted, the experimental data can be see below. 
 
-![Experimental data showing the exponential decay of H2O2](./h2o2.png)
+<center>
+<img src='./stats/h2o2.png' alt="Experimental data showing the exponential decay of H2O2">
 
 Find the maximum likelihood estimation of the rate constant.
 To achieve this, you should first define a multidimensional normal distribution that describes the experimental data and a function for the first order rate equation. 
