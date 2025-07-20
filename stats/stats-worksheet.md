@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Maths, Statistics, and Programming Worksheet
+title: Stats and Programming Worksheet
 ---
 
 <script type="text/x-mathjax-config">
