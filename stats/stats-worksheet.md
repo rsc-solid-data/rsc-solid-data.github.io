@@ -13,7 +13,7 @@ title: Stats and Programming Worksheet
   </script>
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 
 
-# Linear Algebra
+<!-- # Linear Algebra
 
 The ability to rotate a molecule in space is an important aspect in computational chemistry. 
 Indeed, tools such as machine learning interatomic potentials are build on the use of what are called rotation matrices. 
@@ -98,4 +98,4 @@ They have also identified the space group of each of the crystals they have coll
 
 They have asked you to using a dimensionality reduction technique to find the features that lead to the greatest variance. 
 Knowledge of these features will help them to rationally design future materials with desirable properties. 
-Your colleague has requested a visualisation, showing how the different space groups can be identified by considering a higher dimension description of the data. 
+Your colleague has requested a visualisation, showing how the different space groups can be identified by considering a higher dimension description of the data.  -->
