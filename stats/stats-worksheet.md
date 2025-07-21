@@ -61,7 +61,8 @@ $$
 
 where $k$ is the rate constant for the reaction (our model parameter). 
 
-Experimental data measuring this decomposition can be downloaded [here](./first-order.txt) and read in with [`np.loadtxt`](https://numpy.org/doc/stable/reference/generated/numpy.loadtxt). 
+Experimental data measuring this decomposition can be downloaded [here](./first-order.txt) and read in with [`np.loadtxt`](https://numpy.org/doc/stable/reference/generated/numpy.loadtxt).
+The file has three rows, these are the time values, the concentration of hydrogen peroxide at each time, and the uncertainty in that measurement.  
 Plotted, the experimental data can be seen below. 
 
 <center>
