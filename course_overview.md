@@ -36,7 +36,7 @@ We will use datasets involving real world materials research problems. Teams can
 All materials are provided in advance and made openly available post-school to ensure inclusivity and continued learning.
 
 - Please find the "textbook" for the [Stats and Programming section online](https://bri-sc.github.io/special-topics-ai-ml/intro.html).
-- The stats and programing worksheet can be found [here](./stats/stats-worksheet) with worked answers to come. 
+- The stats and programing worksheet can be found [here](./stats/stats-worksheet) with [worked answers](https://github.com/rsc-solid-data/rsc-solid-data.github.io/blob/main/stats/worked-answers.ipynb). 
 - Notebooks and associated Python files for the [diffraction and crystals](https://github.com/rsc-solid-data/data_diffn_crystals) section.
 - Background on accessing databases via and API and unknown structure data is available in the [following GitHub repository](https://github.com/rsc-solid-data/databases_via_api).
 
