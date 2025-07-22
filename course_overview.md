@@ -37,6 +37,7 @@ All materials are provided in advance and made openly available post-school to e
 
 - Please find the "textbook" for the [Stats and Programming section online](https://bri-sc.github.io/special-topics-ai-ml/intro.html).
 - The stats and programing worksheet can be found [here](./stats/stats-worksheet) with worked answers to come. 
+- Notebooks and associated Python files for the [diffraction and crystals](https://github.com/rsc-solid-data/data_diffn_crystals) section.
 - Background on accessing databases via and API and unknown structure data is available in the [following GitHub repository](https://github.com/rsc-solid-data/databases_via_api).
 
 ### Outcomes:
