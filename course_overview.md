@@ -28,8 +28,8 @@ We will use datasets involving real world materials research problems. Teams can
 |            | Day 1                     | Day 2                  | Day 3                  | Day 4               |
 |------------|---------------------------|-------------------------|-------------------------|---------------------|
 | **Morning**   | Stats and programming | Research team project work | Clustering structural information | Dragon's Den |
-| **Afternoon** | Databases, data, and the group project     | Databases and the CSD | Research team project work | — |
-| **Evening**   | Social and poster session | Pizza and hacking       | Presentation from Andy Cooper and School dinner           | — |
+| **Afternoon** | Databases, data, and the group project     | Databases and the CSD | Keith Butler seminar | — |
+| **Evening**   | Social and poster session | Pizza and hacking       | School dinner           | — |
 
 
 ### Accessibility & Resources:
